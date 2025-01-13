@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+body {
+  margin: 0;
+  font-family: "Josefin Sans";
+}
+button , input {
+  font-family: "Josefin Sans";
+}
+p{
+  font-family: "Josefin Sans";
+}
+table{
+  font-family: "Josefin Sans";
+}
+/* src/index.css or src/styles.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */

@@ -1,0 +1,44 @@
+{
+  "name": "goutham",
+  "address": "Employees' Provident Fund Regional Office,Chennai",
+  "location": {
+    "type": "Point",
+    "coordinates": [80.2625205,13.0473059]
+  },
+  "phone": "8438434868",
+  "deliverytime": "10:00AM",
+  "route_id": 1
+},{
+  "name": "sarvesh",
+  "address": "Saliyar Samudaya Maligai",
+  "route_name":"west mambalam",
+  "location": {
+    "type": "Point",
+    "coordinates": [80.2218971,13.0430112]
+  },
+  "phone": "8438434868",
+  "deliverytime": "12:00AM",
+  "route_id": 1
+}{
+  "name": "sahil",
+  "address": "Pothys Boutique",
+  "route_name":"west mambalam",
+  "location": {
+    "type": "Point",
+    "coordinates": [80.2367994,13.0440877]
+  },
+  "phone": "8438434868",
+  "deliverytime": "12:00AM",
+  "route_id": 1
+}{
+  "name": "Rajesh",
+  "address": "Zudio - T-Nagar, Chennai",
+  "route_name":"west mambalam",
+  "location": {
+    "type": "Point",
+    "coordinates": [80.2317515,13.0428544]
+  },
+  "phone": "8438434868",
+  "deliverytime": "12:00AM",
+  "route_id": 1
+}

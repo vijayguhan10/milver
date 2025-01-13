@@ -1,0 +1,35 @@
+ 
+
+/*Header*/
+.Header-container{
+    height: 100%;
+    background-color: #3D4D8F;
+    min-width: 60px;
+    width: 7vw;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Header-innerContainer {
+    height: 60%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .Header-innerContainer div {
+    width: 100%;
+    aspect-ratio: 1;
+    border-radius: 100px;
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    cursor:pointer;
+  }
+  
+  
+  
+  

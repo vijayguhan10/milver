@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Arun Kumar",
+      "phone": "9840012345",
+      "email": "arunkumar@example.com",
+      "address": "12, MGR Street, Chennai, Tamil Nadu",
+      "primaryroutes": 1,
+      "externalroutes": [2, 3],
+      "status": "available",
+      "external_status": "unavailable",
+      "delivery_history": [
+        {
+          "customer": "60b6a38f9a1d8e5e12b8d8a7",
+          "delivered_datetime": "2023-11-10T09:30:00.000Z",
+          "status": "delivered",
+          "route_taken": 1
+        },
+        {
+          "customer": "60b6a38f9a1d8e5e12b8d8a8",
+          "delivered_datetime": "2023-11-11T11:00:00.000Z",
+          "status": "returned",
+          "route_taken": 3
+        }
+      ]
+    },
+    {
+      "name": "Lakshmi Narayanan",
+      "phone": "9884076543",
+      "email": "lakshmi.narayanan@example.com",
+      "address": "45, Gandhi Nagar, Madurai, Tamil Nadu",
+      "primaryroutes": 2,
+      "externalroutes": [1],
+      "status": "on_leave",
+      "external_status": "available",
+      "delivery_history": [
+        {
+          "customer": "60b6a38f9a1d8e5e12b8d8a9",
+          "delivered_datetime": "2023-11-09T15:45:00.000Z",
+          "status": "failed",
+          "route_taken": 2
+        }
+      ]
+    },
+    {
+      "name": "Muthuvel Pandian",
+      "phone": "9755567843",
+      "email": "muthuvel.p@example.com",
+      "address": "23, Raja Street, Coimbatore, Tamil Nadu",
+      "primaryroutes": 3,
+      "externalroutes": [4],
+      "status": "available",
+      "external_status": "on_leave",
+      "delivery_history": [
+        {
+          "customer": "60b6a38f9a1d8e5e12b8d8a5",
+          "delivered_datetime": "2023-11-08T07:15:00.000Z",
+          "status": "delivered",
+          "route_taken": 3
+        }
+      ]
+    },
+    {
+      "name": "Kavitha Devi",
+      "phone": "9443378945",
+      "email": "kavitha.devi@example.com",
+      "address": "67, Anna Nagar, Salem, Tamil Nadu",
+      "primaryroutes": 4,
+      "externalroutes": [5, 6],
+      "status": "available",
+      "external_status": "available",
+      "delivery_history": [
+        {
+          "customer": "60b6a38f9a1d8e5e12b8d8a6",
+          "delivered_datetime": "2023-11-07T13:00:00.000Z",
+          "status": "delivered",
+          "route_taken": 4
+        },
+        {
+          "customer": "60b6a38f9a1d8e5e12b8d8a4",
+          "delivered_datetime": "2023-11-06T09:00:00.000Z",
+          "status": "failed",
+          "route_taken": 6
+        }
+      ]
+    }
+  ]
+  
